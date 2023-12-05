@@ -25,17 +25,17 @@ seoData:
       inheritKeywordsFromDefaultLang: false
       inheritFriendlyCodeFromDefaultLang: false
     it:
-      description: ''
-      keywords: ''
-      friendlyCode: ''
+      description: seo-desc-it
+      keywords: seo-keysss-it
+      friendlyCode: seo-friendly-it
       metaTags:
         - key: metatag-1
-          type: name
-          value: my-metatag
+          type: name-it
+          value: my-metatag-it
           useDefaultLang: false
-      inheritDescriptionFromDefaultLang: false
-      inheritKeywordsFromDefaultLang: false
-      inheritFriendlyCodeFromDefaultLang: false
+      inheritDescriptionFromDefaultLang: true
+      inheritKeywordsFromDefaultLang: true
+      inheritFriendlyCodeFromDefaultLang: true
 charset: utf-8
 status: published
 widgets:
