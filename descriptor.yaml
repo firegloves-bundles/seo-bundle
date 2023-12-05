@@ -1,0 +1,6 @@
+code: seo-bundle
+description: Seo bundle
+bundle-type: standard-bundle
+components:
+  pages:
+    - pages/test-descriptor.yaml

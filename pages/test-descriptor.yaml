@@ -1,0 +1,44 @@
+code: test
+parentCode: homepage
+titles:
+  en: test
+  it: test
+pageModel: 1-2-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+seoData:
+  useExtraDescriptions: false
+  useExtraTitles: false
+  seoDataByLang:
+    en:
+      description: seo-desc
+      keywords: seo-keysss
+      friendlyCode: seo-friendly
+      metaTags:
+        - key: metatag-1
+          type: name
+          value: my-metatag
+          useDefaultLang: false
+      inheritDescriptionFromDefaultLang: false
+      inheritKeywordsFromDefaultLang: false
+      inheritFriendlyCodeFromDefaultLang: false
+    it:
+      description: ''
+      keywords: ''
+      friendlyCode: ''
+      metaTags:
+        - key: metatag-1
+          type: name
+          value: my-metatag
+          useDefaultLang: false
+      inheritDescriptionFromDefaultLang: false
+      inheritKeywordsFromDefaultLang: false
+      inheritFriendlyCodeFromDefaultLang: false
+charset: utf-8
+status: published
+widgets:
+  - code: breadcrumb
+    config: null
+    pos: 4
